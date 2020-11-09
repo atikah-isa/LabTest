@@ -10,7 +10,7 @@
         bit= bal+ bal
         print(bit)
 
-remainder(24)
+    remainder(24)
 
 #Question 2
 
@@ -34,8 +34,8 @@ remainder(24)
     for i in range(0, size):
         array[i] = output[i]
 
-data =[4, 2, 3]
-noOfWord(data)
+    data =[4, 2, 3]
+    noOfWord(data)
 
 #Question 4
  
