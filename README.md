@@ -1,7 +1,7 @@
 # LabTest
 #Question 1
-def remainder(num1):
-    
+ 
+    def remainder(num1):   
     while num1!= 0:
         bal= num1 % 2
         num1 = int (num1/2)
@@ -13,7 +13,8 @@ def remainder(num1):
 remainder(24)
 
 #Question 2
-def noOfWord(sentence):
+
+    def noOfWord(sentence):
     word =len(sentence)
     output =[0]*word
     
@@ -37,11 +38,12 @@ data =[4, 2, 3]
 noOfWord(data)
 
 #Question 4
-def print_arguments(function):
+ 
+    def print_arguments(function):
     return new()
 
-def new(x):
+    def new(x):
     return x*2
 
-new(1)
+    new(1)
        
