@@ -34,8 +34,6 @@
     for i in range(0, size):
         array[i] = output[i]
 
-    data =[4, 2, 3]
-    noOfWord(data)
 
 #Question 4
  
